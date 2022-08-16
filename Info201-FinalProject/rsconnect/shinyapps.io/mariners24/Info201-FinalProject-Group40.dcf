@@ -1,0 +1,13 @@
+name: Info201-FinalProject-Group40
+title: Info201-FinalProject-Group40
+username:
+account: mariners24
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 966217
+bundleId: 2134226
+url: https://mariners24.shinyapps.io/Info201-FinalProject-Group40/
+when: 1559777730.54442
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rapp.history|plottin.R|README.md
